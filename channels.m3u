@@ -24,7 +24,7 @@ http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252111
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zQW6cYr/MOVISTARLOGO.png",M+ Liga de Campeones (1080p)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252102
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zQW6cYr/MOVISTARLOGO.png",M+ Liga de Campeones FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQW6cYr/MOVISTARLOGO.png",M+ Liga de Campeones (720p)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252110
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zQW6cYr/MOVISTARLOGO.png",Gol Mundial (1080p / Movistar Liga de Campeones 2)
@@ -101,21 +101,60 @@ http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252125
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",Bein Sports Ñ (720p) 
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252210
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",Bein Sports Ñ (2 / 720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",Bein Sports Ñ (720p / Opción 2)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252185
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",Bein Sports Ñ (3 / 720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",Bein Sports Ñ (720p / Opción 3)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252185
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 1 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/58334
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 1 (720p / FR)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252209
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 1 (720p / FR / Opción 2)
+http://showflix.art:5890/35353535/53535353/587
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 2 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/588
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 2 (720p / FR)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252208
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 2 (720p / FR / Opción 2)
+http://showflix.art:5890/35353535/53535353/589
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 3 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/590
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 3 (720p / FR)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252207
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 3 (720p / FR / Opción 2)
+http://showflix.art:5890/35353535/53535353/591
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 4 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/592
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 5 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/593
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 6 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/594
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 7 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/595
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 8 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/596
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 9 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/597
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS MAX 10 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/598
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 1 (1080p / EN)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252214
@@ -137,6 +176,7 @@ http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252216
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN SPORTS 4 (720p / EN)
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252215
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ppshxd/beinsportslogo3.png",beIN Sports Premium 1 (1080p / AR) 
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252206
@@ -192,5 +232,50 @@ http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252198
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 1 (720p / IT)
+http://89.216.39.24/stream/12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 1 (720p / FR)
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 2 (720p / IT)
+http://89.216.39.24/stream/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 2 (720p / FR)
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9JxtFk/canal-logo3.png",CANAL+ PREMIER LEAGUE(1080p / FR)
+http://showflix.art:5890/35353535/53535353/99407
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9JxtFk/canal-logo3.png",CANAL+ PREMIER LEAGUE (720p / FR)
+http://showflix.art:5890/35353535/53535353/99408
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9JxtFk/canal-logo3.png",CANAL+ FORMULA 1 (1080p / FR)
+http://showflix.art:5890/35353535/53535353/99409
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9JxtFk/canal-logo3.png",CANAL+ FORMULA 1 (720p / FR)
+http://showflix.art:5890/35353535/53535353/99410
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9JxtFk/canal-logo3.png",+SPORT (1080p / FR)
+http://showflix.art:5890/35353535/53535353/584
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3tKvNs/tennischannellogo2.jpg",Tennis TV (720p / EN)
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92tQrgb/rugratslogo2.png",Rugrats (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27jBN9n/southparklogo.png", South Park (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+

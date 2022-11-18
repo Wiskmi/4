@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 1 (720p / IT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORT 1 [IT / FHD 1080p]
 http://89.216.39.24/stream/12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORTS 2 (720p / IT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORT 2 [IT / FHD 1080p]
 http://89.216.39.24/stream/13/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3tKvNs/tennischannellogo2.jpg",Tennis TV (720p / EN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3tKvNs/tennischannellogo2.jpg",TENNIS CHANNEL [EN / HD 720p]
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/92tQrgb/rugratslogo2.png",Rugrats (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92tQrgb/rugratslogo2.png",Rugrats 24/7 [ES / HD 720p]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27jBN9n/southparklogo.png", South Park (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27jBN9n/southparklogo.png", South Park 24/7 [ES / 720p]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 

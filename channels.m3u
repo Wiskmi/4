@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg",beIN Sports 1 [FR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN Sports 1 [FR / FHD 1080p]
 https://list.iptvcat.com/my_list/s/dcfc41d0e757272e968f7c2d0ea4f3b7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",beIN Sports 2 [FR / FHD 1080p]
 https://list.iptvcat.com/my_list/s/7ee9bd67e982ce872cfcdb49c62a7d65.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/handnews.fr/wp-content/uploads/2014/08/LOGO-BEINSPORTS-3-1024x576.jpg?resize=640%2C360",beIN Sports 2 [FR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIN Sports 3 [FR / FHD 1080p]
 https://list.iptvcat.com/my_list/s/401316f5e5274d087113d60a36cc3eb0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6e/Eurosport_2011.svg/1280px-Eurosport_2011.svg.png",Eurosport 1 [IT / FHD 1080p]

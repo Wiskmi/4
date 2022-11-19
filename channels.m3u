@@ -3,8 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORT 1 [IT / FHD 1080p]
 http://89.216.39.24/stream/12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqRMDH/logoeurosport.png",EUROSPORT 2 [IT / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Logo_von_Eurosport_2_%282011%29.svg/1200px-Logo_von_Eurosport_2_%282011%29.svg.png",EUROSPORT 2 [IT / FHD 1080p]
 http://89.216.39.24/stream/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg",VIASAT Sport [RU / HQ 576p]
+http://persik.by/stream/2347/472449/10249.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3tKvNs/tennischannellogo2.jpg",TENNIS CHANNEL [EN / HD 720p]

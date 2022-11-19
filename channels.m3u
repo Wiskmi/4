@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч ТВ [RU / FHD 1080p]
+http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN Sports 1 [FR / FHD 1080p]
 https://list.iptvcat.com/my_list/s/dcfc41d0e757272e968f7c2d0ea4f3b7.m3u8
 
@@ -9,10 +17,30 @@ https://list.iptvcat.com/my_list/s/7ee9bd67e982ce872cfcdb49c62a7d65.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIN Sports 3 [FR / FHD 1080p]
 https://list.iptvcat.com/my_list/s/401316f5e5274d087113d60a36cc3eb0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6e/Eurosport_2011.svg/1280px-Eurosport_2011.svg.png",Eurosport 1 [IT / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/2560px-Setanta_Sports.svg.png",Setenta Sports 1 [RU / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png",Setenta Sports 2 [RU / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png",Setenta Sports 2 [UND / FHD 1080p]
+http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/19431/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 [EN / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 [IT / FHD 1080p]
 http://89.216.39.24/stream/12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Logo_von_Eurosport_2_%282011%29.svg/1200px-Logo_von_Eurosport_2_%282011%29.svg.png",Eurosport 2 [IT / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 [IT / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 [IT / FHD 1080p]
 http://89.216.39.24/stream/13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png", ESPN Deportes [ES / HQ 576]
@@ -32,6 +60,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png",Fox Sports [EN / HD 720p]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg",Viasat Sport [RU / HD 720p]
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg",Viasat Sport [RU / HQ 576p]
 http://persik.by/stream/2347/472449/10249.m3u8

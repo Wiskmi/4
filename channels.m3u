@@ -1,6 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6e/Eurosport_2011.svg/1280px-Eurosport_2011.svg.png",Eurosport 1 [IT / FHD 1080p]
+http://89.216.39.24/stream/12/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Logo_von_Eurosport_2_%282011%29.svg/1200px-Logo_von_Eurosport_2_%282011%29.svg.png",Eurosport 2 [IT / FHD 1080p]
+http://89.216.39.24/stream/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png", ESPN [ES / HQ 576]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN [EN / HD 720p]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435",ESPN 2 [EN / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733

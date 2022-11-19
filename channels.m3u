@@ -1,9 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч ТВ [RU / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p]
 http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [2]
+http://85.112.114.11:8088/udp/238.2.50.8:1234
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [3]
+http://194.143.148.28:8080/MatchHD/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [4]
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EHpK-mRWkAEyxmn.png",Матч! Страна [RU / HD 720p]
+https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9PdoC6bsvH_fwLt7ni1fnNLo6-YbUufGOe_rzb=s900-c-k-c0x00ffffff-no-rj",Матч! Игра [RU / HD 720p]
+http://193.233.9.49/streams/media/Match_Igra/index.m3u8
 
 
 

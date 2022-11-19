@@ -62,7 +62,7 @@ https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HD 720p]
 http://193.233.9.49/streams/media/Match_Igra/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HQ 576p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HQ 576p] [2]
 http://109.171.45.109:81/udp/239.54.5.45:1224?q=zi/
 
 

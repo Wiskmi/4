@@ -44,7 +44,7 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_1_obychnyy.png",Матч! Футбол 1 [RU / FHD 1080p] 
 http://95.183.43.237:8080/258/index.m3u8
 
-#EXTINF:-1 tvg-log="https://www.cableman.ru/sites/default/files/match_futbol_1_obychnyy.png",Матч! Футбол 1 [RU / FHD 1080p] [1]
+#EXTINF:-1 tvg-log="https://www.cableman.ru/sites/default/files/match_futbol_1_obychnyy.png",Матч! Футбол 1 [RU / FHD 1080p] [2]
 http://90.188.227.251:4022/udp/233.7.70.29:5000
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_2_obychnyy.png",Матч! Футбол 2 [RU / FHD 1080p]

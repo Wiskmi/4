@@ -26,14 +26,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p]
 http://85.112.114.11:8088/udp/238.2.50.8:1234
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 1080p] [2]
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [3]
 http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [3]
-http://194.143.148.28:8080/MatchHD/mpegts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [4]
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер [RU / FHD 1080p]
 http://85.11.144.9:4222/MatchPremier?token=test
@@ -50,16 +50,13 @@ http://95.183.43.237:8080/259/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_3_obychnyy.png",Матч! Футбол 3 [RU / FHD 1080p]
 http://95.183.43.237:8080/260/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_3_obychnyy.png", Матч! Футбол 3 [RU / FHD 1080p] [2]
-http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.png", Матч! Арена [RU / FHD 1080p]
 http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EHpK-mRWkAEyxmn.png",Матч! Страна [RU / HD 720p]
 https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HD 720p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HQ 576p]
 http://193.233.9.49/streams/media/Match_Igra/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png",Матч! Игра [RU / HQ 576p] [2]
@@ -73,7 +70,7 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png",Setanta Sports 2 [RU / FHD 1080p]
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",Eleven Sports 5 [PT / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",Eleven Sports 5 [PT / FHD 1080p] [Eventos] 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png",Dubai Sports 1 [AR / FHD 1080p]
@@ -87,21 +84,24 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 [EN / FHD 1080p]
-https://livetv.mylifeisgood.ml/channels/eurosport1ru
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 [IT / FHD 1080p]
 http://89.216.39.24/stream/12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 [IT / FHD 1080p]
-https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 [EN / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 [IT / FHD 1080p]
 http://89.216.39.24/stream/13/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 [EN / FHD 1080p]
+https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV [EN / FHD 1080p]
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV [EN / HQ 576p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png",Tennis Channel [EN / HD 720p]
@@ -122,25 +122,22 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/1200px-PGA_Tour_logo.svg.png",PGA Tour Channel [EN / HD 720p]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek", NFL Network [EN / HQ 576p]
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek",NFL Network [EN / HQ 576p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
 
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/urcgb91h8b4jl6a7dnnq", NFL RedZone [EN / HQ 576p]
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/urcgb91h8b4jl6a7dnnq",NFL RedZone [EN / HQ 576p] [Eventos]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png", MLB Network [EN / HQ 544p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",MLB Network [EN / HQ 544p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
 
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network [EN / HQ 544p]
-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png", Red Bull TV [EN / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png",Red Bull TV [EN / FHD 1080p]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png", Red Bull TV [EN / HQ 1544p] [2]
-https://list.iptvcat.com/my_list/s/6520a05827efc8def172d3a3dd514307.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png",Red Bull TV [EN / HQ 544p] [2]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg",Viasat Sport [RU / HD 720p]
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
@@ -149,13 +146,16 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 http://persik.by/stream/2347/472449/10249.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia [ES / HD 720p] 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia [ES / HQ 576p] 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HD 720p]
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HQ 576p]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
-#EXTIN:F-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
 https://list.iptvcat.com/my_list/s/771cb03c6d6ab129c687006b3ef83884.m3u8
 
 
@@ -163,11 +163,13 @@ https://list.iptvcat.com/my_list/s/771cb03c6d6ab129c687006b3ef83884.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhQHWzX/xaba-proc.png",TVG Xabarín Club [GA / HD 720p]
 https://list.iptvcat.com/my_list/s/769aacc7ed9957c0e89042bb2c441882.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png",South Park 24/7 [ES / HD 720p]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Rugrats 24/7 [ES / HD 720p]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png",South Park 24/7 [ES / HD 720p]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 

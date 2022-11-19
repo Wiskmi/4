@@ -12,9 +12,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U [EN / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",ESPN News [EN / HD 720p]
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png",Fox Sports [EN / HD 720p]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -76,7 +73,7 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png",Dubai Sports 1 [AR / FHD 1080p]
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg",Dubai Sports 2 [AR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg",Dubai Sports 2 [AR / HD 720p]
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports 3 [AR / FHD 1080p]
@@ -152,7 +149,7 @@ http://persik.by/stream/2347/472449/10249.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia [ES / HQ 576p] 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HQ 576p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
@@ -174,7 +171,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fc
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/1200?cb=20210507171453",Rock TV SD 480p
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/1200?cb=20210507171453",Rock TV [EN / SD 480p]
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1354578804_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png",Stingray Classic Rock [EN / FHD 1080p]

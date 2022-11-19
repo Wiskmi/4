@@ -149,18 +149,18 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 http://persik.by/stream/2347/472449/10249.m3u8
 
 
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia [ES / HD 720p] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia [ES / HD 720p] 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HD 720p]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HD 720p]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
+#EXTIN:F-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
 https://list.iptvcat.com/my_list/s/771cb03c6d6ab129c687006b3ef83884.m3u8
 
 
 
-#EXTINF-1 tvg-logo="https://i.ibb.co/PhQHWzX/xaba-proc.png",TVG Xabarín Club [GA / HD 720p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhQHWzX/xaba-proc.png",TVG Xabarín Club [GA / HD 720p]
 https://list.iptvcat.com/my_list/s/769aacc7ed9957c0e89042bb2c441882.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Rugrats 24/7 [ES / HD 720p]
@@ -172,8 +172,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a400071688
 
 
 
-#EXTINF-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/1200?cb=20210507171453",Rock TV SD 480p
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/1200?cb=20210507171453",Rock TV SD 480p
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1354578804_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png",Stingray Classic Rock [EN / FHD 1080p]

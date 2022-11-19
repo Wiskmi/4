@@ -76,13 +76,13 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",Eleven Sports 5 [PT / FHD 1080p]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/DUBAI_SPORTS.png",Dubai Sports 1 [AR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png",Dubai Sports 1 [AR / FHD 1080p]
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/DUBAI_SPORTS.png",Dubai Sports 2 [AR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg",Dubai Sports 2 [AR / FHD 1080p]
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/DUBAI_SPORTS.png",Dubai Sports 3 [AR / FHD 1080p]
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports 3 [AR / FHD 1080p]
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 

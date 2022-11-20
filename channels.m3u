@@ -20,24 +20,17 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p]
-http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [2]
 http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [3 / LaLiga Censurada]
 http://85.112.114.11:8088/udp/238.2.50.8:1234
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [4 / LaLiga Censurada]
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер [RU / FHD 1080p]
 http://85.11.144.9:4222/MatchPremier?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер [RU / FHD 1080p] [2]
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/match_futbol_1_obychnyy.png",Матч! Футбол 1 [RU / FHD 1080p] 
 http://95.183.43.237:8080/258/index.m3u8
 

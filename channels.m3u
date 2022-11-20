@@ -29,10 +29,8 @@ http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [3 / LaLiga Censurada]
 http://85.112.114.11:8088/udp/238.2.50.8:1234
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 1080p] [4 / LaLiga Censurada]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [4 / LaLiga Censurada]
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер [RU / FHD 1080p]
 http://85.11.144.9:4222/MatchPremier?token=test

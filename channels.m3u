@@ -18,17 +18,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a6173797
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",Fox Sports 1 [EN / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p]
 http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 720p] [2]
 http://194.143.148.28:8080/MatchHD/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [3 / Contenido Limitado]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / FHD 1080p] [3 / LaLiga Censurada]
 http://85.112.114.11:8088/udp/238.2.50.8:1234
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 1080p] [4 / Contenido Limitado]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! [RU / HD 1080p] [4 / LaLiga Censurada]
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 
 

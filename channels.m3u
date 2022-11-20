@@ -12,9 +12,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U [EN / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png",Fox Sports [EN / HD 720p]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",Fox Sports 1 [EN / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
@@ -145,20 +142,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/1200px-Discovery_Science_logo.svg.png",Discovery Science [ES / HD 720p]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG [GA / HD 720p]
-https://list.iptvcat.com/my_list/s/771cb03c6d6ab129c687006b3ef83884.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PhQHWzX/xaba-proc.png",TVG Xabarín Club [GA / HD 720p]
-https://list.iptvcat.com/my_list/s/769aacc7ed9957c0e89042bb2c441882.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png",South Park 24/7 [ES / HD 720p]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Rugrats 24/7 [ES / HD 720p]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 

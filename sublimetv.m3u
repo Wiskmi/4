@@ -24,7 +24,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! HD [RU]
 http://194.143.148.28:8080/MatchHD/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! FHD [RU] [LaLiga Censurada]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! (No LaLiga) FHD [RU]
 http://85.112.114.11:8088/udp/238.2.50.8:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер FHD [RU]

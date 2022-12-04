@@ -1,0 +1,42 @@
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435",ESPN 2 𝐇𝐃 🇺🇸 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U 𝐇𝐃 🇺🇸 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",ESPN News 𝐇𝐃 🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png",Матч! (Blocked LaLiga) 𝐅𝐇𝐃 🇷🇺
+http://85.112.114.11:8088/udp/238.2.50.8:1234
+CAIDO!!!
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EHpK-mRWkAEyxmn.png",Матч! Страна 𝐇𝐃 🇷🇺
+https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",Eleven Sports 5 FHD (Eventos) [PT] 
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png",Dubai Sports 1 𝐅𝐇𝐃 🇦🇪 | ⚽ 
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg",Dubai Sports 2 𝐇𝐃 🇦🇪 | ⚽
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports 3 𝐅𝐇𝐃 🇦🇪 | ⚽
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 FHD (B) [EN]
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 FHD (B) [EN]
+https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8

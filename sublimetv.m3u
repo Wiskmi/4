@@ -6,19 +6,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a053
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 2 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a055
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 3 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a054
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 3 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 3 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 4 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
@@ -35,7 +35,7 @@ http://190.61.102.67:8000/play/a04i
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇦🇷
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇦🇷
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐒𝐃 🇨🇱 | ⚽

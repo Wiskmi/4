@@ -1,10 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐐 🇲🇽 | ⚽
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇲🇽 | ⚽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://190.61.102.67:8000/play/a053
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 2 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://190.61.102.67:8000/play/a055
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 3 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://190.61.102.67:8000/play/a054
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 3 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 4 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://190.61.102.67:8000/play/a079
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN Extra 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://190.61.102.67:8000/play/a04i
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇦🇷
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐒𝐃 🇨🇱 | ⚽
+http://168.194.171.33:8000/play/a01a/index.m3u8
+
+#EXTINF:-1,ESPN 2 𝐒𝐃
+http://168.194.171.33:8000/play/a00y/index.m3u8
+
+#EXTINF:-1,ESPN 2 Latin 𝐒𝐃
+http://168.194.171.33:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 PERU? 𝐒𝐃
+http://168.194.171.33:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 𝐒𝐃
+http://168.194.171.33:8000/play/a018/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 1 𝐒𝐃 🇲🇽 | 🏎️
+http://168.194.171.33:8000/play/a00q/index.m3u8 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 𝐒𝐃 🇲🇽 | 
+http://168.194.171.33:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 𝐒𝐃 🇲🇽 | 
+http://168.194.171.33:8000/play/a01l/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64j6sct/images.png",TyC Sports 𝐇𝐃 🇦🇷 | ⚽🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
@@ -55,6 +111,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/1200px-PGA_Tour_logo.svg.png",PGA Tour Channel 𝐅𝐇𝐃 🇺🇸 | 🏌️‍♂️
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PYcY1C/onegolf.png",One Golf 𝐇𝐃 🇺🇸 | 🏌️‍♂️ 
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek",NFL Network 𝐇𝐐 🇺🇸 | 🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616

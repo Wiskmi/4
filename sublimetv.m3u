@@ -1,57 +1,125 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇲🇽 | ⚽
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+http://45.232.211.196:1080/play/a058
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+http://45.232.211.196:1080/play/a04l
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱 (B) | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+http://45.232.211.196:1080/play/a045
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+http://45.232.211.196:1080/play/a04i
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+http://45.232.211.196:1080/play/a051
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+http://45.232.211.196:1080/play/a05i
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇮🇹🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a053
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 2 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇮🇹🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a055
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 3 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 (B)| ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a054
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 3 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 4 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a079
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN Extra 𝐇𝐃 🇲🇽 | ⚽🇪🇺🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
 http://190.61.102.67:8000/play/a04i
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇦🇷
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐒𝐃 🇨🇱 | ⚽
-http://168.194.171.33:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐒𝐃 🇪🇨 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+http://45.232.211.196:1080/play/a026
 
-#EXTINF:-1,ESPN 2 𝐒𝐃
-http://168.194.171.33:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 | 🏀🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1,ESPN 2 Latin 𝐒𝐃
-http://168.194.171.33:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 PERU? 𝐒𝐃
-http://168.194.171.33:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png", ESPN 3 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 𝐒𝐃
-http://168.194.171.33:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
+http://190.61.102.67:8000/play/a054
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",ESPN News 𝐇𝐃 🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 | ⚽🇪🇺¹ 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+#EXTINF:-1 tvg-logo="https://ibb.co/2FGwhhg",UEFA Champions League 𝐒𝐃 🇲🇽 | ⚽🇪🇺¹ 
+http://bgapp.live/play/futvall-142.php?id=dW5pdmRlcA==&token=bñackghos&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports 𝐇𝐐 🇺🇸 | ⚽🇹🇷🇫🇷🚴 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 1 𝐒𝐃 🇲🇽 | 🏎️
 http://168.194.171.33:8000/play/a00q/index.m3u8 
@@ -93,9 +161,6 @@ http://89.216.39.24/stream/13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV 𝐇𝐐 🇺🇸 | 🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 | 🏀🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png",Tennis Channel 𝐇𝐃 🇺🇸 | 🎾
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8

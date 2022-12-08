@@ -71,47 +71,43 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 | ⚽🇪🇺¹ 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvxFSnN/zona-futbol.png",Zona Fútbol 𝐒𝐃 🇲🇽 | ⚽🇪🇺¹ 
-http://bgapp.live/play/futvall-142.php?id=dW5pdmRlcA==&token=bñackghos&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_spanish_c.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports 𝐇𝐐 🇺🇸 | ⚽🇹🇷🇫🇷🚴 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png",Bein Sports 𝐇𝐐 🇺🇸 | ⚽🇹🇷🇫🇷🚴 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 
 
-
-
-FOX (Whasington) FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNTsskL/FOX.png",FOX (Washington) 𝐅𝐇𝐃 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547.m3u8
 
-FOX DEPORTES
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png",FOX Deportes 𝐇𝐃 🇺🇸🇪🇸 | ⚽🌍🏉🏀🇺🇸⚾
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531 
 
-FS1
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png",FS1 𝐇𝐃 🇺🇸 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
-FS2
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png",FS2 𝐇𝐃 🇺🇸 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 
-FOX SPORTS MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQFkdyJ/FOX-Sports-logo-svg.png",FOX SPORTS 𝐇𝐃 🇲🇽 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
 
-FOX SPORTS 2 MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png", FOX SPORTS 2 𝐇𝐃 🇲🇽 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
 
-FOX SPORTS 2 MX FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png", FOX SPORTS 2 𝐅𝐇𝐃 🇲🇽🇵🇦| ⚽🌍🏉🏀🇺🇸⚾
 http://190.61.102.67:8000/play/a05z
 
-FOX SPORTS 2 ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png", FOX SPORTS 2 𝐇𝐃 🇲🇨| ⚽🌍🏉🏀🇺🇸⚾
 http://45.232.211.196:1080/play/a052
 
-FOX SPORTS 3 MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png", FOX SPORTS 3 𝐇𝐃 🇲🇽 | ⚽🌍🏉🏀🇺🇸⚾
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545
 
 FOX SPORTS 3 MX
@@ -123,6 +119,7 @@ http://190.61.102.67:8000/play/a056
 
 
 
+🇦🇷  🏎️
 
 
 

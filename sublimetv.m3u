@@ -51,14 +51,13 @@ http://45.232.211.196:1080/play/a026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 | 🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
 #EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png", ESPN 3 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 
-#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
 http://190.61.102.67:8000/play/a054
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
@@ -128,10 +127,10 @@ http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png",Матч! Премьер 𝐅𝐇𝐃 🇷🇺 | ⚽🇪🇺🇮🇹🇩🇪
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/2560px-Setanta_Sports.svg.png",Setanta Sports 1 𝐅𝐇𝐃 🇧🇾 | ⚽🇬🇧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/2560px-Setanta_Sports.svg.png",Setanta Sports 1 𝐅𝐇𝐃 🇧🇾 | ⚽🇬🇧🇪🇸🎾🏎️
 https://livetv.mylifeisgood.ml/channels/setantahd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png",Setanta Sports 2 𝐅𝐇𝐃 🇧🇾 | ⚽🇪🇸🎾
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png",Setanta Sports 2 𝐅𝐇𝐃 🇧🇾 | ⚽🇬🇧🇪🇸🎾🏎️
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wK8rH2S/sport-proc.png",𝐒𝐩𝐨𝐫𝐭 𝐓𝐕+ 𝐅𝐇𝐃 🇵🇹 | ⚽🇪🇺🇵🇹🇮🇹🏀🇺🇸🏍️
@@ -148,11 +147,11 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 🇮🇹 𝐅𝐇𝐃 | 🎾🚴🏍️
-http://89.216.39.24/stream/12/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1 𝐅𝐇𝐃 🇬🇧 | 🎾🚴🏍️
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 𝐅𝐇𝐃 🇮🇹 | 🎾🚴🏍️
-http://89.216.39.24/stream/13/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2 𝐅𝐇𝐃 🇬🇧 | 🎾🚴🏍️
+https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV 𝐇𝐐 🇺🇸 | 🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600

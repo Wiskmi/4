@@ -67,10 +67,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 | ⚽🇪🇺¹ 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-
-
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_spanish_c.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
@@ -79,6 +75,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png",Bein Sports 𝐇𝐐 🇺🇸 | ⚽🇹🇷🇫🇷🚴 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 | ⚽🇪🇺¹ 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 (B) | ⚽🇪🇺¹ 
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNTsskL/FOX.png",FOX (Washington) 𝐅𝐇𝐃 🇺🇸 | ⚽🌍🏉🏀🇺🇸⚾
@@ -189,17 +194,28 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",World Poker Tour 𝐇𝐃 🇪🇸 | 🃏
 https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a9ea946e-7351-11ed-877c-b62dafd34c691
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png",Antena 3 Internacional 𝐇𝐃 🇪🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png",South Park 𝐇𝐃 🇪🇸 | 😁
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png",A3 Series 𝐇𝐃 🇪🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel 𝐇𝐃 🇪🇸
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TV de Galicia Europa  𝐇𝐃 🇪🇸
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png",South Park 𝐇𝐃 🇪🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Rugrats 24/7 𝐇𝐃 🇪🇸 | 😁
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Rugrats 𝐇𝐃 🇪🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png",Garfield 𝐇𝐃 🇪🇸
+https://stitcher.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a9ea946e-7351-11ed-877c-b62dafd34c691
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sxHGqs/gh24.png",GH 24 𝐇𝐃 🇦🇷
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 

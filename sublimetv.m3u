@@ -140,13 +140,14 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Deportes",Dubai Sports 3 𝐅𝐇𝐃 🇦🇪
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",group-title="Deportes", Eurosport 1 𝐅𝐇𝐃 🇷🇺
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",group-title="Deportes", Eurosport 2 𝐅𝐇𝐃 🇷🇺
 https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 
+#EXTINF:-1 tvg-logo="https://logo-logos.com/2016/10/Red_Bull_TV_logo_image_picture.png" group-title="Deportes",Red Bull TV 𝐅𝐇𝐃 🇺🇸
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="Deportes",Real Madrid TV 𝐒𝐃 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -154,8 +155,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="Deportes",Barça TV 𝐇𝐐 🇪🇸 
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo-logos.com/2016/10/Red_Bull_TV_logo_image_picture.png",Red Bull TV 𝐅𝐇𝐃 🇦🇪
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Deportes",MLB Network 𝐇𝐐 🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Deportes",World Poker Tour 𝐇𝐃 🇪🇸
+https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a9ea946e-7351-11ed-877c-b62dafd34c691
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel 𝐇𝐃 🇺🇸
@@ -164,11 +168,13 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel Pluto TV 𝐇𝐃 🇺🇸
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Formula 1",DAZN F1 𝐇𝐃 🇪🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Formula 1",DAZN F1 𝐇𝐐 🇪🇸
 http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Golf",Golf TV 𝐅𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
@@ -178,18 +184,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PYcY1C/onegolf.png" group-title="Golf",One Golf 𝐇𝐃 🇺🇸
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek" group-title="NFL",NFL Network 𝐇𝐐 🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
-
-#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/urcgb91h8b4jl6a7dnnq" group-title="NFL",NFL RedZone 𝐇𝐐 🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Deportes",MLB Network 𝐇𝐐 🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Deportes",World Poker Tour 𝐇𝐃 🇪🇸
-https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a9ea946e-7351-11ed-877c-b62dafd34c691
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="NBA",NBA TV 𝐇𝐐 🇺🇸 
@@ -286,20 +280,28 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 
 
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek" group-title="NFL",NFL Network 𝐇𝐐 🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/urcgb91h8b4jl6a7dnnq" group-title="NFL",NFL RedZone 𝐇𝐐 🇺🇸
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1000px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Generalistas",CNN en Español 𝐒𝐃 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="Generalistas",Antena 3 Internacional 𝐇𝐃 🇪🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Generalistas", TV de Galicia Europa  𝐇𝐃 🇪🇸
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="Entretenimiento",A3 Series 𝐇𝐃 🇪🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="Entretenimiento",Eurochannel 𝐇𝐃 🇪🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Generalistas", TV de Galicia Europa  𝐇𝐃 🇪🇸
-https://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/860px-South_park_sign.svg.png" group-title="Entretenimiento",South Park 𝐇𝐃 🇪🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -313,13 +315,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sxHGqs/gh24.png" group-title="Entretenimiento",GH 24 𝐇𝐃 🇦🇷
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 1 𝐇𝐃 🇪🇸
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 1
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 2 𝐇𝐃 🇪🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 2
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 3 𝐇𝐃 🇪🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 3
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
 

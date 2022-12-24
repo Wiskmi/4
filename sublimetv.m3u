@@ -154,6 +154,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="Deportes",Barça TV 𝐇𝐐 🇪🇸 
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logo-logos.com/2016/10/Red_Bull_TV_logo_image_picture.png",Red Bull TV 𝐅𝐇𝐃 🇦🇪
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel 𝐇𝐃 🇺🇸
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8

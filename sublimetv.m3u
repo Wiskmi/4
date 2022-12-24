@@ -310,4 +310,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sxHGqs/gh24.png" group-title="Entretenimiento",GH 24 𝐇𝐃 🇦🇷
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 1 𝐇𝐃 🇪🇸
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 2 𝐇𝐃 🇪🇸
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7SZqtg/eve.png" group-title="Eventos",Evento 3 𝐇𝐃 🇪🇸
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+
 

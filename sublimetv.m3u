@@ -95,61 +95,58 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Otros Deportes",TUND 𝐇𝐐 🇲🇽
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Otros Deportivos",TUND 𝐇𝐐 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Otros Deportes",TUND 𝐇𝐐 🇲🇽 (B)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Otros Deportivos",TUND 𝐇𝐐 🇲🇽 (B)
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="Otros Deportes",GOL TV 𝐇𝐐 🇲🇽 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="Otros Deportivos",GOL TV 𝐇𝐐 🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64j6sct/images.png" group-title="Otros Deportes",TyC Sports 𝐇𝐃 🇦🇷 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64j6sct/images.png" group-title="Otros Deportivos",TyC Sports 𝐇𝐃 🇦🇷 
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHfKvF4/jsp.png" group-title="Otros Deportes",J Sports 1 𝐒𝐃 🇯🇵
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHfKvF4/jsp.png" group-title="Otros Deportivos",J Sports 1 𝐒𝐃 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png" group-title="Otros Deportes",Матч! 𝐇𝐃 🇷🇺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N20WhT1/matchtv.png" group-title="Otros Deportivos",Матч! 𝐇𝐃 🇷🇺
 http://194.143.148.28:8080/MatchHD/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png" group-title="Otros Deportes",Матч! Премьер 𝐅𝐇𝐃 🇷🇺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwyjmQQ/match2.png" group-title="Otros Deportivos",Матч! Премьер 𝐅𝐇𝐃 🇷🇺
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg" group-title="Otros Deportes",Viasat Sport 𝐇𝐃 🇷🇺
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg" group-title="Otros Deportivos",Viasat Sport 𝐇𝐃 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/2560px-Setanta_Sports.svg.png" group-title="Otros Deportes",Setanta Sports 1 𝐅𝐇𝐃 🇧🇾 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/2560px-Setanta_Sports.svg.png" group-title="Otros Deportivos",Setanta Sports 1 𝐅𝐇𝐃 🇧🇾 
 https://livetv.mylifeisgood.ml/channels/setantahd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png" group-title="Otros Deportes",Setanta Sports 2 𝐅𝐇𝐃 🇧🇾
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png" group-title="Otros Deportivos",Setanta Sports 2 𝐅𝐇𝐃 🇧🇾
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wK8rH2S/sport-proc.png" group-title="Otros Deportes",Sport TV+ 𝐅𝐇𝐃 🇵🇹
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wK8rH2S/sport-proc.png" group-title="Otros Deportivos",Sport TV+ 𝐅𝐇𝐃 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png" group-title="Otros Deportes",Dubai Sports 1 𝐅𝐇𝐃 🇦🇪
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzjP0B6/dubai-proc.png" group-title="Otros Deportivos",Dubai Sports 1 𝐅𝐇𝐃 🇦🇪
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg" group-title="Otros Deportes",Dubai Sports 2 𝐇𝐃 🇦🇪
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FhZLTf/dubai2.jpg" group-title="Otros Deportivos",Dubai Sports 2 𝐇𝐃 🇦🇪
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Otros Deportes",Dubai Sports 3 𝐅𝐇𝐃 🇦🇪
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Otros Deportivos",Dubai Sports 3 𝐅𝐇𝐃 🇦🇪
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",group-title="Otros Deportes", Eurosport 1 𝐅𝐇𝐃 🇬🇧
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",group-title="Otros Deportivos", Eurosport 1 𝐅𝐇𝐃 🇬🇧
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",group-title="Otros Deportes", Eurosport 2 𝐅𝐇𝐃 🇬🇧
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",group-title="Otros Deportivos", Eurosport 2 𝐅𝐇𝐃 🇬🇧
 https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="Temáticos Fútbol",LALIGA TV Bar 𝐅𝐇𝐃 🇪🇸 
-http://190.61.102.67:8000/play/a07h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="Temáticos Fútbol",Real Madrid TV 𝐒𝐃 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -161,7 +158,7 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel 𝐇𝐃 🇺🇸
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel 2 𝐇𝐃 🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tenis",Tennis Channel Pluto TV 𝐇𝐃 🇺🇸
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Temáticos Polideportivo",DAZN F1 𝐇𝐃 🇪🇸

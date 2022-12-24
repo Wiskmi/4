@@ -57,7 +57,7 @@ http://190.60.39.62:8000/play/a03c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNTsskL/FOX.png" group-title="FOX",FOX (Washington) 𝐅𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png" group-title="FOX",FOX Deportes 𝐇𝐃 🇺🇸🇽
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png" group-title="FOX",FOX Deportes 𝐇𝐃 🇺🇸🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531 
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="FOX",FS1 𝐇𝐃 🇺🇸 

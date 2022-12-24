@@ -188,9 +188,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Temáticos Polideportivo",MLB Network 𝐇𝐐 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="TemáticosPolideportivo",World Poker Tour 𝐇𝐃 🇪🇸
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Temáticos Polideportivo",World Poker Tour 𝐇𝐃 🇪🇸
 https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a9ea946e-7351-11ed-877c-b62dafd34c691
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="NBA",NBA TV 𝐇𝐐 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600

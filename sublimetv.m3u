@@ -12,7 +12,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="ESPN",ESPNews 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png"" group-title="ESPN",ESPN 1 𝐇𝐐 🇦🇷
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png"" group-title="ESPN",ESPN 𝐇𝐐 🇦🇷
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png" group-title="ESPN",ESPN 𝐇𝐃 🇲🇽 
@@ -49,14 +49,14 @@ http://168.194.171.33:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNTsskL/FOX.png" group-title="FOX",FOX (Washington) 𝐅𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png" group-title="FOX",FOX Deportes 𝐇𝐃 🇺🇸🇲🇽 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531 
-
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="FOX",FS1 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="FOX",FS2 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png" group-title="FOX",FOX Deportes 𝐇𝐃 🇺🇸🇲🇽 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQFkdyJ/FOX-Sports-logo-svg.png" group-title="FOX",FOX SPORTS 𝐇𝐃 🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706

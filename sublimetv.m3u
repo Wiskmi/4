@@ -39,6 +39,15 @@ http://190.61.102.67:8000/play/a079
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png" group-title="ESPN",ESPN Extra 𝐇𝐃 🇲🇽
 http://190.61.102.67:8000/play/a04i
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png" group-title="ESPN",ESPN 𝐒𝐃 🇨🇱
+http://168.194.171.33:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="ESPN",ESPN 2 𝐒𝐃 🇨🇱
+http://168.194.171.33:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png" group-title="ESPN",ESPN 𝐒𝐃 🇨🇴
+http://190.60.39.62:8000/play/a03c
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN",ESPN 3 𝐒𝐃 🇨🇱
 http://190.60.39.62:8000/play/a04l
 

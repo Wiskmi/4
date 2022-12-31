@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png" group-title="ESPN",ESPN 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="ESPN",ESPN2 𝐇𝐃 🇺🇸 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="ESPN",ESPN 2 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="ESPN",ESPNU 𝐇𝐃 🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="ESPN",ESPN U 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="ESPN",ESPNews 𝐇𝐃 🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="ESPN",ESPN News 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png"" group-title="ESPN",ESPN 𝐇𝐐 🇦🇷
@@ -67,19 +67,19 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxDeportes2021_c.png" group-title="FOX",FOX Deportes 𝐇𝐃 🇺🇸🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQFkdyJ/FOX-Sports-logo-svg.png" group-title="FOX",FOX SPORTS 𝐇𝐃 🇲🇽 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQFkdyJ/FOX-Sports-logo-svg.png" group-title="FOX",FOX Sports 𝐇𝐃 🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png" group-title="FOX", FOX SPORTS 2 𝐇𝐃 🇲🇽
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png" group-title="FOX", FOX Sports 2 𝐇𝐃 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png" group-title="FOX", FOX SPORTS 2 𝐅𝐇𝐃 🇲🇽🇵🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S68YZnQ/fox-sports2.png" group-title="FOX", FOX Sports 2 𝐅𝐇𝐃 🇲🇽🇵🇦
 http://190.61.102.67:8000/play/a05z
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jGXjHnQ/fox3s.png" group-title="FOX", FOX SPORTS 3 𝐇𝐃 🇲🇽
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGXjHnQ/fox3s.png" group-title="FOX", FOX Sports 3 𝐇𝐃 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jGXjHnQ/fox3s.png" group-title="FOX", FOX SPORTS 3 𝐇𝐃 🇨🇱 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGXjHnQ/fox3s.png" group-title="FOX", FOX Sports 3 𝐇𝐃 🇨🇱 
 http://190.61.102.67:8000/play/a056
 
 
@@ -177,7 +177,7 @@ http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Golf 🏌️",Golf TV 𝐅𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/1200px-PGA_Tour_logo.svg.png" group-title="Golf 🏌️",PGA Tour Channel 𝐅𝐇𝐃 🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/1200px-PGA_Tour_logo.svg.png" group-title="Golf 🏌️",PGA Tour Channel 𝐇𝐃 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PYcY1C/onegolf.png" group-title="Golf 🏌️",One Golf 𝐇𝐃 🇺🇸
